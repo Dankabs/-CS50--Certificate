@@ -35,4 +35,4 @@ Completing CS50 has equipped me with the foundational skills necessary for a car
 
 ---
 
-Feel free to explore this repository to see my projects and contributions related to the CS50 course.
+Feel free to explore this repository at [https://github.com/code50/166226697] to see my projects and contributions related to the CS50 course.
